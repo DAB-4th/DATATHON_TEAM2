@@ -6,3 +6,5 @@
 - [0415 데이터톤 - EDA 및 시각화(1)](https://colab.research.google.com/drive/1rorwjSe4a2CGKMC9KrBzNXW57ih-vgv4?usp=sharing)
 - [0417 데이터톤 - 데이터 추가](https://colab.research.google.com/drive/1-VQD_RG2aGwKLFpvEAYhO8KZFubW1Lx2?usp=sharing)
 - [0418 데이터톤 - 데이터 추가](https://colab.research.google.com/drive/1xe0IVKk-L55UejLbBJK2WtaPQoQke-eq?usp=sharing)
+- [0418 데이터톤 - EDA 및 시각화(2)](https://colab.research.google.com/drive/193-CzIQhMAB3JMlBbdW68UaESrzTCLR2?usp=sharing)
+- [0421 데이터톤 - 데이터 수정](https://colab.research.google.com/drive/1hSSHZZtkQzf44VkUE8KgwhryCYdfahBZ?usp=sharing)
