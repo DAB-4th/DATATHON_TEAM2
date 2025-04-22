@@ -10,3 +10,4 @@
 - [0421 데이터톤 - 데이터 수정](https://colab.research.google.com/drive/1hSSHZZtkQzf44VkUE8KgwhryCYdfahBZ?usp=sharing)
 - [0422 데이터톤 - 머신/딥러닝 데이터 처리](https://colab.research.google.com/drive/1vQCr4XEWNlBRBTP1yFtH8rD7pEMqswad?usp=sharing)
 - [0422 데이터톤 - AUTO ARIMA](https://colab.research.google.com/drive/1Ag6pEtBTBCQRwTO2qGp8557Wb41EQp3j?usp=sharing)
+- [0422 데이터톤 - LSTM](https://colab.research.google.com/drive/1dPGIs1g8kFfuJ7KmP7Zm63XFKss2M_iV?usp=sharing)
