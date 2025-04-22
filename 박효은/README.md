@@ -9,4 +9,4 @@
 - [0418 데이터톤 - EDA 및 시각화(2)](https://colab.research.google.com/drive/193-CzIQhMAB3JMlBbdW68UaESrzTCLR2?usp=sharing)
 - [0421 데이터톤 - 데이터 수정](https://colab.research.google.com/drive/1hSSHZZtkQzf44VkUE8KgwhryCYdfahBZ?usp=sharing)
 - [0422 데이터톤 - 머신/딥러닝 데이터 처리](https://colab.research.google.com/drive/1vQCr4XEWNlBRBTP1yFtH8rD7pEMqswad?usp=sharing)
-- 
+- [0422 데이터톤 - AUTO ARIMA](https://colab.research.google.com/drive/1Ag6pEtBTBCQRwTO2qGp8557Wb41EQp3j?usp=sharing)
