@@ -11,3 +11,5 @@
 - [0422 데이터톤 - 머신/딥러닝 데이터 처리](https://colab.research.google.com/drive/1vQCr4XEWNlBRBTP1yFtH8rD7pEMqswad?usp=sharing)
 - [0422 데이터톤 - AUTO ARIMA](https://colab.research.google.com/drive/1Ag6pEtBTBCQRwTO2qGp8557Wb41EQp3j?usp=sharing)
 - [0422 데이터톤 - LSTM](https://colab.research.google.com/drive/1dPGIs1g8kFfuJ7KmP7Zm63XFKss2M_iV?usp=sharing)
+- [0425 데이터톤 - attention LSTM ALL features](https://colab.research.google.com/drive/158Z1tfFeDPiQT7MOzkF2kiyW1NODgjdB?usp=sharing)
+- [0425 데이터톤 - attention LSTM Selected features](https://colab.research.google.com/drive/11xgdmO2nnHz00AAlS60hWBZvcZMK_RR9?usp=sharing)
