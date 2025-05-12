@@ -17,9 +17,9 @@
 ## 머신러닝
 Exponentail Smoothing, LightGBM (All Features, Selected Features)
 * https://colab.research.google.com/drive/1XGG5-Vo9kWvTOsq7syRActOYb8Uc7T0V?usp=sharing
-### LightGBM (튜닝)
+#### LightGBM (튜닝)
 * https://colab.research.google.com/drive/1Hp7MyGLmmE5hZPn7ufyBrOJejgjFTSuV?usp=sharing
-### LSTM
+#### LSTM
 * https://colab.research.google.com/drive/1dQcMIOz2fVkK9ULPBNLGjYDdeIOWoJAi?usp=sharing
 * https://colab.research.google.com/drive/1PU0pjTZGv_fQrK3q2HJ6RZVZpDMs_awS?usp=sharing
 * https://colab.research.google.com/drive/19ctsdb1_jcXQt4di0-D72d8mZpEkbuPo?usp=sharing
@@ -27,5 +27,5 @@ Exponentail Smoothing, LightGBM (All Features, Selected Features)
 * https://colab.research.google.com/drive/1FpSc_pTNeoXt7jARaaSSibO9V2JQwu49?usp=sharing
 * https://colab.research.google.com/drive/1vgJJmfx5fJj3NOn4uvzvEmZcuUw7pSwz?usp=sharing
 * https://colab.research.google.com/drive/1aO8YExU94e_pG3gm0ocNdcrobRC-1572?usp=sharing
-### 최종 선택 모델_LSTM (교차 검증, SHAP 분석)
+#### 최종 선택 모델_LSTM (교차 검증, SHAP 분석)
 * https://colab.research.google.com/drive/11Dn7y02chrMB_qW9hGIYX2g5meF8Nk_-?usp=sharing
