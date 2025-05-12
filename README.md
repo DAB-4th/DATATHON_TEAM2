@@ -39,7 +39,7 @@
 
 - **Language**: Python 3.11+
 - **Library**:
-  - `pandas`, `numpy`, `scikit-learn`, tensorflow, keras  
+  - `pandas`, `numpy`, `scikit-learn`, `tensorflow`, `keras`  
   - `xgboost`, `lightgbm`  
   - `matplotlib`, `seaborn`  
   - `requests` (API 연동)
