@@ -15,7 +15,7 @@
 * https://colab.research.google.com/drive/1xrfW7tNnDOQ8eqHEcVNwzEL9v6jqL0kL?usp=sharing
 
 ## 머신러닝
-Exponentail Smoothing, LightGBM (All Features, Selected Features)
+#### Exponentail Smoothing, LightGBM (All Features, Selected Features)
 * https://colab.research.google.com/drive/1XGG5-Vo9kWvTOsq7syRActOYb8Uc7T0V?usp=sharing
 #### LightGBM (튜닝)
 * https://colab.research.google.com/drive/1Hp7MyGLmmE5hZPn7ufyBrOJejgjFTSuV?usp=sharing
